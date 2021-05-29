@@ -14,7 +14,7 @@ This data set contains the following features:
 * 'Male': Whether or not consumer was male
 * 'Country': Country of consumer
 * 'Timestamp': Time at which consumer clicked on Ad or closed window
-* **Target Variable**'Clicked on Ad': 0 or 1 indicated clicking on Ad
+* **Target Variable** 'Clicked on Ad': 0 or 1 indicated clicking on Ad
 
 ## Code and Resources Used
 **Python Version:** Python 3.8
