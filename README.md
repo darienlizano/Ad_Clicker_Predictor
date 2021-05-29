@@ -27,9 +27,9 @@ I explored distributions of categorical variables, including my target variable.
 
 ![Image 1](https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/ad_corr_plot.png)
 
-[alt_text](https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/internet_plot.png)
+![alt_text](https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/internet_plot.png)
 
-[alt_text](https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/kde_dist.png)
+![alt_text](https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/kde_dist.png)
 
 ## Building My Model
 My target variable was initially entered in the data set as a dummy variable. I split my data into a training and test data set and saved those as separate csv files. My test and train data were split by a test size of 30%.
