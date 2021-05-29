@@ -25,7 +25,7 @@ This data set contains the following features:
 ## Exploratory Data Analysis
 I explored distributions of categorical variables, including my target variable. Below are a few highlights of my visualizations.
 
-[]('https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/ad_corr_plot.png')
+![Image 1]('https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/ad_corr_plot.png')
 
 [alt_text]('https://github.com/darienlizano/Ad_Clicker_Predictor/blob/main/internet_plot.png')
 
